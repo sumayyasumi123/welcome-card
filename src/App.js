@@ -20,7 +20,7 @@ function App() {
           Welcome to React Learning, {userName}
         </h2>
 
-        {/* Internal Image */}
+        
         <img
           src={internalImage}
           alt="Internal"
@@ -28,7 +28,7 @@ function App() {
           style={{ width: "200px" }}
         />
 
-        {/* External Image */}
+        
         <img
           src="https://i.pinimg.com/1200x/06/7c/10/067c105976b1322bba870ad3e6652a95.jpg"
           alt="External"
