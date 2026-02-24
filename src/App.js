@@ -25,7 +25,7 @@ function App() {
           src={internalImage}
           alt="Internal"
           className="img-fluid mx-auto my-3"
-          style={{ width: "200px" }}
+          style={{ width: "150px" }}
         />
 
         
